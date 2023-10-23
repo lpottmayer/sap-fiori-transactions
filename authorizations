@@ -1,0 +1,11 @@
+Authorization for CDS View
+
+Apps from package (SACM_COMMON):
+Transaction          - Report
+SACM                 - R_ACM_STARTPAGE
+SACMDCLS             - R_ACMDTUI_DCLSRC
+SACMDCLS_FOR_ENTITY  - R_ACMDTUI_DCLSRC
+SACMINT              - R_ACMINT_STARTPAGE
+SACMLOG              - R_ACMDTUI_LOG
+SACMOSM              - R_ACMDTUI_OBJSTATUS
+SACMSEL              - R_ACMTOOL_SELECT
